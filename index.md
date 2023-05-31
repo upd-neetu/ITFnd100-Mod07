@@ -27,4 +27,5 @@ except Exception as e:
 ```
 #### Listing 13
 ![Results of Listing 13](https://github.com/upd-neetu/ITFnd100-Mod07/blob/main/Picture1.png "Results of Listing 13")
+
 Figure 13. The results of Listing 13
