@@ -1,6 +1,6 @@
 # Title
-**Dev:** *RRoot*   
-**Date:** *1.1.2030*
+**Dev:** *NeetuU*   
+**Date:** *05.31.2023*
 
 ## Structured Error Handling (Try-Except)
 When you are programming, you fix your bugs immediately and make sure the code runs smoothly. However, it often happens that other people introduce new bugs when they use your program.
@@ -13,7 +13,7 @@ Python automatically generates errors based on conditions defined by the Python 
 # Title: Listing 13
 # Description: A try-catch with manually raised errors
 # ChangeLog: (Who, When, What)
-# RRoot,1.1.2030,Created Script
+# NeetuU,05.01.2023,Created Script
 # ------------------------------------------------- #
 
 try:
